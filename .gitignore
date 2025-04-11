@@ -4,3 +4,7 @@ target/
 
 # Archivos del sistema
 .DS_Store
+
+# Added by cargo
+
+/target
